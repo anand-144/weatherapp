@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">weatherApp</string>
+    <string name="search_city_here">Search City Here</string>
+    <string name="_0_c">0°c</string>
+    <string name="hiii">......hiii.</string>
+    <string name="fetching">Fetching......</string>
+</resources>
